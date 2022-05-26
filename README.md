@@ -10,7 +10,7 @@ We created this challenge in order to learn more about your programming skills a
 1. The BE application must have a 4 layers architecture: Router, Business and Database;
 2. The FE application must be separate presentation componentes from containers;
 3. Test coverage should be more than 80% via Jest both on BE and FE;
-4. Payment data should encrypted before saving it to the database: you should use the AES-256 standard, relying on any lib you want.
+4. Payment data should encrypted before being stored into the database: you should use the AES-256 standard, relying on any lib you want.
 5. The application must be implemented by using our favorite stack: NodeJS + ExpressJs + Typescript in the **BE** and React, TSX, SCSS in the **FE**. 
 
 
