@@ -7,7 +7,7 @@ We created this challenge in order to learn more about your programming skills a
 
 **Our challenge consists of a CRUD that after being developed must fulfil 5 technical requirements:** 
 
-1. The BE application must have a 4 layers architecture: Router, Business and Database;
+1. The BE application must have a 3 layers architecture: Router, Business and Database;
 2. The FE application must be separate presentation componentes from containers;
 3. Test coverage should be more than 80% via Jest both on BE and FE;
 4. Payment data should encrypted before being stored into the database: you should use the AES-256 standard, relying on any lib you want.
